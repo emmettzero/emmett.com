@@ -1,0 +1,19 @@
+body {
+	background-color: #262424;
+    color: #ffffff;
+    font-family: 'Source Code Pro', monospace;
+}
+
+img {
+	width: 250px;
+}
+
+.bee {
+	width: 504px;
+    height: 100px;
+}
+
+#water {
+	border-radius: 50%;
+    width: 207px;
+}
