@@ -34,7 +34,7 @@ function changeColors() {
 
 function partyMode() {
     if (partying === false) {
-    	setInterval(changeColors, 100);
+    	setInterval(changeColors, 500);
         partying = true;
     }
     else {
