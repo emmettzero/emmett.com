@@ -1,19 +1,35 @@
 body {
-	background-color: #262424;
+    background-color: #262424;
     color: #ffffff;
     font-family: 'Source Code Pro', monospace;
 }
 
 img {
-	width: 250px;
+    width: 250px;
+    margin: 10px;
 }
 
 .bee {
-	width: 504px;
+    width: 504px;
     height: 100px;
 }
 
 #water {
-	border-radius: 50%;
+    border-radius: 50%;
     width: 207px;
 }
+
+.page-title {
+	text-align: center;
+    
+}
+
+.pictures {
+	display: flex;
+    justify-content: space-around;
+}
+
+a {
+	color:teal;
+}
+
